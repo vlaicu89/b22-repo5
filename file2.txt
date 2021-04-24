@@ -1,1 +1,1 @@
-file2.txt
+this is content of file2.txt
